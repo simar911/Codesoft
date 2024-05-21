@@ -1,2 +1,2 @@
 # Codesoft
-this is my internship related repository with codesoft
+this is my c++ programming internship related repository with codesoft
